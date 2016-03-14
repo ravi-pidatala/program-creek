@@ -1,2 +1,22 @@
+DO NOT START WRITING CODE BEFORE WALKING THROUGH THE APPROACH AND CHECKING IF IT WORKS .
+TEST THE CODE MANUALLY BEFORE RUNNING A TEST CASE IN ECLIPSE.
+DO NOT BE IN A HURRY IN ANY STEP.
+
 1. Rotate Array. Try to do in o[n] memory and o[1] space. Could not achieve it.
 2. 
+
+CHAPTER 6
+1. Got this solution after copying. Do this again. (p1)
+2. Got this solution after debugging. Did not check the limits inside while loop. Do this again. (p2)
+3. 
+
+CHAPTER4:
+
+1. 
+2. 
+3. 
+4. Try to implement this using two Queues.(p2)
+4_1. Got this idea after completing the Q4. REMEMBER to use TWO QUEUES for this. p2
+5. For validating BST, we need to validate limits of each node.Just checking its limits with immediate parent or child nodes is not sufficient.
+17.Got idea from book and looking online. p2. Wrote Search and prefix, did not write insert . P1 for insert
+18.
