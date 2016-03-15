@@ -18,5 +18,13 @@ CHAPTER4:
 4. Try to implement this using two Queues.(p2)
 4_1. Got this idea after completing the Q4. REMEMBER to use TWO QUEUES for this. p2
 5. For validating BST, we need to validate limits of each node.Just checking its limits with immediate parent or child nodes is not sufficient.
-17.Got idea from book and looking online. p2. Wrote Search and prefix, did not write insert . P1 for insert
+17.Got idea from book and looking online. p2. Wrote Search and prefix, did not write insert . Wrote insert later.
 18.
+
+CHAPTER3:
+2. Got idea after looking online. Made mistake . Had to debug and find out. p1.
+3. Made a mistke p2.Got idea since i did cloning a graph in interview of walmart
+
+A stable sort is one which preserves the original order of input set , where comparison algorithm 
+does not distiinguish between two or more sets.
+Implement a HEAP datastructure P1 (heap Sort)
