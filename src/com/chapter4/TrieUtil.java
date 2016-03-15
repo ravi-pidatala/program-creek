@@ -3,6 +3,8 @@ package com.chapter4;
 public class TrieUtil {
 
 	public static TrieNode getTrie1() {
+		
+		
 		TrieNode root = new TrieNode();
 		
 		TrieNode node1 = new TrieNode();
@@ -89,5 +91,37 @@ public class TrieUtil {
 			return true;
 		}
 		return false;
+	}
+	
+	public static boolean insert(String s, TrieNode node) {
+		char [] charArray = s.toCharArray();
+		
+		// check if all characters fall in range
+		for (char c: charArray) {
+			if (c - 65 > 26 || c - 65 < 0 ) {
+				return false;
+			}
+		}
+		
+		for (char c: charArray) {
+			if (node.chars[c - 65] != null) {
+				node = node.chars[c - 65];
+				continue;
+			}
+			
+			// insert char c to node
+			TrieNode newNode = new TrieNode();
+			newNode.setCharacter(c);
+			node.chars[c - 65] = newNode;
+			node = newNode;
+			
+		}
+		
+		//insert [ at the end 
+		TrieNode end = new TrieNode();
+		end.setCharacter('[');
+		node.chars[26] = end;
+		return true;
+		
 	}
 }
