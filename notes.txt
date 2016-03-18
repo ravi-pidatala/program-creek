@@ -28,3 +28,21 @@ CHAPTER3:
 A stable sort is one which preserves the original order of input set , where comparison algorithm 
 does not distiinguish between two or more sets.
 Implement a HEAP datastructure P1 (heap Sort)
+
+7_1. Do again. No idea what i did.
+9. Got this idea after reading online. p1
+11. Remove all linked list elements having a particular value . P1 . HAVE A HELPER NODE AS HEAD.
+
+Done with this chapter. Better to redo once later.
+
+45. DO THIS AGAIN.REMEMBER.
+Got idea from online. Fairly simple problem if i can get idea of how to solve.
+
+CHAPTER 7:
+3. Required to be done again . P2
+
+
+
+
+
+
