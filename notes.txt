@@ -3,7 +3,9 @@ TEST THE CODE MANUALLY BEFORE RUNNING A TEST CASE IN ECLIPSE.
 DO NOT BE IN A HURRY IN ANY STEP.
 
 1. Rotate Array. Try to do in o[n] memory and o[1] space. Could not achieve it.
-2. 
+2. P1
+3. P1
+45.P1
 
 CHAPTER 6
 1. Got this solution after copying. Do this again. (p1)
@@ -22,8 +24,10 @@ CHAPTER4:
 18.
 
 CHAPTER3:
+TIP: USE FAKE HEAD FOR LINKED LIST. 
 2. Got idea after looking online. Made mistake . Had to debug and find out. p1.
-3. Made a mistke p2.Got idea since i did cloning a graph in interview of walmart
+4. Made a mistke p1.Got idea since i did cloning a graph in interview of walmart.
+
 
 A stable sort is one which preserves the original order of input set , where comparison algorithm 
 does not distiinguish between two or more sets.
@@ -33,6 +37,7 @@ Implement a HEAP datastructure P1 (heap Sort)
 9. Got this idea after reading online. p1
 11. Remove all linked list elements having a particular value . P1 . HAVE A HELPER NODE AS HEAD.
 
+17. Implement Queue using Array .p1. Very good idea is given here.
 Done with this chapter. Better to redo once later.
 
 45. DO THIS AGAIN.REMEMBER.
@@ -41,6 +46,15 @@ Got idea from online. Fairly simple problem if i can get idea of how to solve.
 CHAPTER 7:
 3. Required to be done again . P2
 
+6. Got idea from looking into hint. Good one P1.
+6_1. Could do this once i did 6 . P2.
+6_2. Could not do it myself. looked at code online . P1 DO AGAIN.
+7. Made mistake trying to do on my own. Found it myself trying next problem. P1. CAREFUL
+7_1. Could do it myself. How ever do again
+8. Got this idea after looking online P1. Could not do it myself.
+10 . MUST DO AGAIN. COPIED WHOLE FROM SOLUTION.
+11. SIMILAR TO 10. MUST DO AGAIN. 
+12. MUS DO AGAIN. DID IT WRONG.
 
 
 

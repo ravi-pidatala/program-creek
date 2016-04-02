@@ -1,5 +1,12 @@
 package com.chapter1;
+/*
+	Consider the array like circular. 
+	[1,2,3,4,5,6,7] is rotated to [5,6,7,1,2,3,4]. 
 
+	start from first element. get the k+ 1 element and put k in temp and first element in k  position.
+	now , got k times from the k  position (at the end of array go to start).  Swap the temp and the position value.
+	Continue till the first position gets its correct element. 
+*/
 public class Question1 {
 	/*  
 	    o[n] memory
